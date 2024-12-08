@@ -6,6 +6,7 @@ languageCode = "en"
 pygmentsStyle = "monokai"
 theme = "gokarna"
 title = "Kyle's Portfolio"
+baseurl= 'https://kylesportfoliosite.netlify.app'
 
 [params]
   avatarAltText = "avatar"
